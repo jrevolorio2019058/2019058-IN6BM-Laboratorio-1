@@ -2,9 +2,66 @@ body{
     background-color: #7C1A14;
 }
 
-.margen-Superior{
+.margen-Cabezado{
 
-    background-color: blue;
-    margin: 20px;
+    background-color: #050263;
+    text-align: center;
+    vertical-align: top;
+    margin-top: -25px;
+    margin-bottom: 8px;
+    border-radius: 2vh;
+
+}
+
+.margen-Cuerpo{
+
+    background-color: wheat;
+    text-align: center;
+    vertical-align: top;
+    margin-bottom: 3vh;
+    height: 100vh;
+    border-radius: 3vh;
+
+}
+
+.titulo{
+
+    font-size: 7vh;
+    font-family: "Consolas", cursive;
+    color: #E3DAC9;
+
+}
+
+.subTitulo{
+
+    font-size: 3vh;
+    margin-top: -20px;
+    font-family: "Comic Sans MS", cursive;
+    color: #E3DAC9;
+
+}
+
+button{
+
+    background-color: transparent;
+    border: none;
+    color: aliceblue;
+    margin: 3vh;
+    font-size: 3vh;
+    font-family: "Kristen ITC", cursive;
+    border-radius: 2vh;
+
+}
+
+button:hover{
+
+    background-color: #808080;
+    
+
+}
+
+button:active{
+
+    background-color: #7C1A14;
 
 }
