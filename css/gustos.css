@@ -1,0 +1,60 @@
+body{
+
+    background-color: #7a5c3c;
+
+}
+
+.encabezado{
+
+    display: flex;
+    background-color: #F5F5DC;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    width: 350px;
+
+
+}
+
+.logo{
+
+    display: 5px;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+
+}
+
+.titulo{
+
+    font-family: "Gadugi", sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+
+}
+
+.subtitulo{
+
+    font-family: "Kristen ITC", cursive;
+    font-size: 15px;
+
+}
+
+.in{
+
+display: flex;
+
+}
+
+.informacion{
+
+    background-color: #F5F5DC;
+    border-radius: 20px;
+    width: 115vh;
+    height: 60vh;
+
+}
+
+p{
+    margin: 20px;
+}

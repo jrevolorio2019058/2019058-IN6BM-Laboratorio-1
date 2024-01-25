@@ -82,6 +82,7 @@ iframe{
     margin-top: 2vh;
     margin-left: 2vh;
     margin-right: 1vh;
+    border-radius: 10px;
     border: none;
 
 }
