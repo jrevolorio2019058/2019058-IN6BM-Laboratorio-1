@@ -11,7 +11,7 @@
 
 .titulo{
 
-    font-size: 5vh;
+    font-size: 4vh;
     margin: 5vh;
     font-family: "Segoe Print", cursive;
 
@@ -21,7 +21,7 @@
 
     color: #BF3131;
     font-family: "MV Boli", cursive;
-    font-size: 4vh;
+    font-size: 3vh;
 
 }
 
@@ -29,6 +29,34 @@
 
     color: black;
     font-family: "MV Boli", cursive;
-    font-size: 3vh;
+    font-size: 2vh;
+
+}
+
+.fondo-Informacion{
+
+    display: flex;
+    background-color: aliceblue;
+    border-radius: 20px;
+    height: 72vh;
+    width: 210vh;
+
+}
+
+.informacion1{
+
+    margin: 20px;
+
+}
+
+.informacion2{
+
+    margin: 20px;
+
+}
+
+.informacion3{
+
+    margin: 20px;
 
 }
