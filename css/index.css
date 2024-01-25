@@ -85,3 +85,43 @@ iframe{
     border: none;
 
 }
+
+.btn-musica{
+
+    display: flex;
+    justify-content: center;
+    vertical-align: middle;
+    
+}
+
+.btn-subir{
+
+    background-color:#050263;
+    padding-left: 2vh;
+    padding-right: 2vh;
+
+}
+
+.btn-bajar{
+
+    background-color:#050263;
+    padding-left: 2vh;
+    padding-right: 2vh;
+
+}
+
+.btn-reproducir{
+
+    background-color:#050263;
+    padding-left: 2vh;
+    padding-right: 2vh;
+
+}
+
+.btn-parar{
+
+    background-color:#050263;
+    padding-left: 2vh;
+    padding-right: 2vh;
+
+}

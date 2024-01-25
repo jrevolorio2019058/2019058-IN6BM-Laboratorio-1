@@ -12,13 +12,20 @@
         <h2 class="titulo">Fundación Kinal</h2>
         <div class="subTitulo">
             <h3>Laboratorio 1</h3>
-            <a target="iframe-index" href="HTML/biografia.html"><button>Biografía</button></a>
-            <a target="iframe-index" href="HTML/gustos.html"><button>Hobbie</button></a>
+            <a target="iframe-index" href="HTML/biografia.html" onclick="guardarCancion('./music/MoreThanYouKnown.mp3')"><button>Biografía</button></a>
+            <a target="iframe-index" href="HTML/gustos.html" onclick="guardarCancion('./music/F1.mp3')""><button>Hobbie</button></a>
             <button><img class="logoKinal" src="image/logoKinal.png"></button>
         </div>
+    </div>
+    <div class="btn-musica">
+        <button class="btn-subir" onclick="subirVolumen()">+</button>
+        <button class="btn-reproducir" onclick="reproducir()">Play</button>
+        <button class="btn-parar" onclick="pausar()">Stop</button>
+        <button class="btn-bajar" onclick="bajarVolumen()">-</button>
     </div>
     <div class="margen-Cuerpo">
         <iframe name="iframe-index"></iframe>
     </div>
+    <script src="js/index.js"></script>
 </body>
 </html>
