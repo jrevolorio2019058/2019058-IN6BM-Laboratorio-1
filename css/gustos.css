@@ -120,3 +120,104 @@ p{
     margin: 20px;
 
 }
+
+.titulos-Div{
+
+    display: flex;
+    color: #dddddd;
+    align-items: center;
+    justify-content: center;
+    background-color: #ab2a3e;
+    width: 60vh;
+    height: 12vh;
+    border-radius: 50px;
+    text-align: center;
+    vertical-align: middle;
+    margin-left: 20px;
+
+}
+
+.titulos-h1{
+
+    font-family: "Cooper Black", cursive;
+    font-size: 80px;
+
+}
+
+.informacion-Parrafo{
+
+    background-color: #ecf0f1;
+    border-radius: 20px;
+    margin: 20px;
+    width: 200vh;
+    height: 113vh;
+
+}
+
+.informacion-Parrafo:hover{
+
+    background-color:#f5f5f5;
+
+}
+
+.informacion-Parrafo{
+
+    font-size: 25px;
+    text-align: center;
+
+
+}
+
+.rojo{
+
+    color: #BF3131;
+    font-family: "Cooper Black", cursive;
+    font-size: 25px;
+
+}
+
+.FIA{
+
+    width: 80vh;
+    height: 50;
+    margin: 20px;
+    position: relative;
+    top: -15px;
+    border-radius: 20px;
+
+}
+
+.informacion-Campeon{
+
+    font-size: 30px;
+    text-align: center;
+
+}
+
+.info{
+
+    background-color: #ecf0f1;
+    border-radius: 20px;
+    width: 115vh;
+    height: 70vh;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.info:hover{
+
+    background-color:#f5f5f5;
+
+}
+
+.campeon{
+
+    width: 80vh;
+    height: 70vh;
+    margin: 20px;
+    position: relative;
+    top: -25px;
+    border-radius: 20px;
+
+}
