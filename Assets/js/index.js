@@ -18,7 +18,7 @@ function reproducir(){
 
     if(contador == 0){
 
-        sound = new Audio('./music/podcast.mp3');
+        sound = new Audio('./Assets/music/podcast.mp3');
 
         sound.volume = actual;
 
