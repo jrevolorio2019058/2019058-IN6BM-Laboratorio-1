@@ -127,3 +127,40 @@ body{
     margin: 3vh;
 
 }
+
+.texto1{
+
+    display: flex;
+    background-color: #05087E;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    height: 60px;
+    width: 150px;
+    border-radius: 20px;
+    margin: 10px;
+
+}
+
+.texto2{
+
+    display: flex;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    height: 180px;
+    width: 400px;
+    border-radius: 20px;
+    margin: 10px;
+
+}
+
+a{
+    margin: 5px;
+}
+
+.tituloA{
+    display: flex;
+    color: aliceblue;
+    font-size: 40px;
+}
