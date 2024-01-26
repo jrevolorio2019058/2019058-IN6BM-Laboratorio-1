@@ -21,7 +21,7 @@ body{
     align-items:center;
     position: relative;
     vertical-align: middle;
-    top: 40px;
+    top: 7px;
     left: 650px;
     color: wheat;
     font-size: 25px;
@@ -47,5 +47,43 @@ body{
     margin: 20px;
     position: relative;
     top: -5px;
+
+}
+
+.home{
+
+    vertical-align: middle;
+    height: 80px;
+    width: 80px;
+    position: relative;
+    top: -1px;
+
+}
+
+.iframe{
+
+    width: 100%;
+    height: 500%;
+    border: none;
+
+}
+
+.inicio{
+
+    background-color: #ceb4a5;
+    display: flex;
+    justify-content: center;
+    vertical-align: middle;
+    border-top-left-radius: 35%;
+    border-top-right-radius: 35%;
+
+}
+
+.Lema{
+
+    color: #05087E;
+    font-family: "Ink Free",cursive;
+    font-size: 5vh;
+    margin: 3vh;
 
 }
