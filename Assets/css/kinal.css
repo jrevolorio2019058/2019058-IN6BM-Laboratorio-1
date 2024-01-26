@@ -69,15 +69,26 @@ body{
 }
 
 .inicio{
-
     background-color: #ceb4a5;
+    width: 100%;
+    height: 100%;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+}
+
+.centrado{
+
     display: flex;
     justify-content: center;
-    vertical-align: middle;
-    width: 100%;
-    height: 50vh;
-    border-top-left-radius: 35%;
-    border-top-right-radius: 35%;
+    align-items: center;
+    flex-direction: column;
+}
+
+.lineal{
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 
 }
 
@@ -85,6 +96,7 @@ body{
 
     color: #05087E;
     font-family: "Ink Free",cursive;
+    position: relative;
     font-size: 5vh;
     margin: 3vh;
 
@@ -92,10 +104,26 @@ body{
 
 .contenedor-Parrafo{
 
-    position: relative;
+    display: flex;
     background-color: aliceblue;
-    width: 100px;
-    height: 100px;
+    font-size: 20px;
+    font-family: "Palatino Linotype", cursive;
+    justify-content: center;
+    align-items: center;
+    width: 800px;
+    height: 200px;
+    border-radius: 20px;
     margin: 10px;
+
+
+}
+
+.SubTitulo{
+
+    color: #05087E;
+    font-family: "Ink Free",cursive;
+    position: relative;
+    font-size: 3vh;
+    margin: 3vh;
 
 }
