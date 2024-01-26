@@ -1,0 +1,51 @@
+body{
+
+    background-color: #ECF0F1;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+
+}
+
+.encabezado{
+
+    display: flex;
+    background-color: #05087E;
+    height: 10vh;
+
+}
+
+.btn-Encabezado{
+
+    justify-content: right;
+    align-items:center;
+    position: relative;
+    vertical-align: middle;
+    top: 40px;
+    left: 650px;
+    color: wheat;
+    font-size: 25px;
+
+}
+
+.button-Encabezado{
+
+    margin: 20px;
+
+}
+
+.button-Encabezado:hover{
+
+    color: #C66910;
+
+}
+
+.logoKinal{
+
+    width: 22vh;
+    height: 7vh;
+    margin: 20px;
+    position: relative;
+    top: -5px;
+
+}
