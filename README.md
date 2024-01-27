@@ -18,3 +18,8 @@ hare todos los apartados para abajo y los botones lo que tendran es una animaci�
 bueno usando esta herramienta.
 9.En el tema de la educación solo puse lo que en realidad importa que lleva cada ciclo porque siento que si la información esta bien
 se extiende mucho y nos podriamos ahorrar mucho espacio solo poniendo las especificaciones de cada carrera.
+10.Los Apartados de Sponsors y Blog revisandolos me parecieron que honestamente la gente no lo revisan ya que uno solo son los logos
+de las empresas que ayudan a Kinal y honestamente eso no es lo que la gente busca y la del blog es un apartado importante pero creo
+que solo para los estudiantes, ese apartado debería estar en kinal.academy.
+11.En el apartado de trabajo quite los titulos de azul y la descripción porque siento que con la imagen ya te dice por eso lo elimine,
+en su lugar agregue un texto que dice si esta activo el trabajo o no.
