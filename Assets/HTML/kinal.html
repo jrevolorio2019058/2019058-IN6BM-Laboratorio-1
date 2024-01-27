@@ -16,6 +16,7 @@
                 <a href="#quienesSomos" style="color:wheat"><btn class="button-Encabezado">Quiénes Somos</btn></a>
                 <a href="#educacion" style="color:wheat"><btn class="button-Encabezado">Educación</btn></a>
                 <a href="#trabajo" style="color:wheat"><btn class="button-Encabezado">Trabajo</btn></a>
+                <a href="#contacto" style="color:wheat"><btn class="button-Encabezado">Contacto</btn></a>
                 <a href="https://link.ebi.com.gt/EBL107353eo4368asf2g/1621282737059942b/1634135282dc79e2f" style="color:wheat"><btn class="button-Encabezado">Donaciones</btn></a>
             </div>
         </div>
@@ -465,8 +466,12 @@
         </div>
     </div>
     <div class="fondo">
-        <div class="centrado">
+        <div id="contacto" class="centrado">
             <h1>Contactanos</h1>
+            <input id="nombre" type="text" placeholder="Ingrese Nombre">
+            <input id="correo" type="text" placeholder="Ingrese Correo">
+            <input id="mensaje" class="motivo" type="text" placeholder="Motivo Contacto">
+            <button class="boton-Final" onclick="envioMensaje()">Enviar</button>
         </div>
     </div>
     <script src="../js/kinal.js"></script>
