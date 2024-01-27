@@ -129,7 +129,7 @@ body{
     color: #05087E;
     font-family: "Ink Free",cursive;
     position: relative;
-    font-size: 3vh;
+    font-size: 5vh;
     margin: 3vh;
 
 }
@@ -223,4 +223,18 @@ a{
     width: 100%;
     height: 100%;
 
+}
+
+.tituloE{
+    display: flex;
+    color: aliceblue;
+    font-size: 40px;
+}
+
+.textoE{
+    display: flex;
+    color: aliceblue;
+    font-size: 25px;
+    margin: 10px;
+    text-align: center;
 }

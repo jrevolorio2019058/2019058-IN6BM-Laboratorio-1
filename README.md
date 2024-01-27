@@ -16,3 +16,5 @@ hare todos los apartados para abajo y los botones lo que tendran es una animaci�
 7.En el Quienes somos note que habia un boton sin ninguna funcionalidad, lo borre.
 8.Tambien e eliminado los caruseles que tenian algunas imagenes por dos motivos el primero espacio que consume los caruseles son bastantes y el segundo que no soy muy
 bueno usando esta herramienta.
+9.En el tema de la educación solo puse lo que en realidad importa que lleva cada ciclo porque siento que si la información esta bien
+se extiende mucho y nos podriamos ahorrar mucho espacio solo poniendo las especificaciones de cada carrera.
